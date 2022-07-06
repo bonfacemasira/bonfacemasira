@@ -3,8 +3,8 @@ bonfacemasira/bonfacemasira is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-### <h1 align="center">Hi 👋, I'm Bonface Masira</h1> Hi there 👋, My Name  is Bonface Masira
-#### I am Front-end web developer
+### <h1 align="center">Hi 👋, I'm Bonface Masira</h1>
+### I am Front-end web developer
 ![gitback](https://user-images.githubusercontent.com/87852919/167628453-00bf380b-0880-469e-b42c-efeb1af86e29.png)
 
 
