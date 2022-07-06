@@ -3,12 +3,14 @@ bonfacemasira/bonfacemasira is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there 👋, My Name  is Bonface Masira
+### <h1 align="center">Hi 👋, I'm Bonface Masira</h1> Hi there 👋, My Name  is Bonface Masira
 #### I am Front-end web developer
 ![gitback](https://user-images.githubusercontent.com/87852919/167628453-00bf380b-0880-469e-b42c-efeb1af86e29.png)
 
 
 Hey there 👋 I am a Front-end web developer from Kenya. I always like to use advanced Technology for creating useful products. I like to use advanced programming languages like python, java, c++. etc.. and I love machine learning.
+
+
 
 ## 🚀 Languages and Tools:
 
@@ -21,6 +23,8 @@ Hey there 👋 I am a Front-end web developer from Kenya. I always like to use a
 - 🔭 I’m currently working on Open source project
 - 💞️ I’m looking to collaborate on creating dynamic webpages
 - 📫 How to reach me - bonfacemasira@gmail.com
+
+
 
 ## Connect with me:
 
