@@ -14,14 +14,14 @@ Hey there 👋 I am a Front-end web developer from Kenya. I always like to use a
 
 ## 🚀 Languages and Tools:
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![RUBY](https://img.icons8.com/color/30/ruby.png)
 <br/>
 
 - 👋 Hi, I’m @bonfacemasira
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning web development using html, css and javascript
-- 🔭 I’m currently working on Open source project
-- 💞️ I’m looking to collaborate on creating dynamic webpages
+- 🔭 I’m working on Open source project using html, css and javascript
+- 🌱 I’m currently learning web3 blockchain development
+- 💞️ I’m looking to collaborate on creating dynamic webpages using React JS
 - 📫 How to reach me - bonfacemasira@gmail.com
 
 
