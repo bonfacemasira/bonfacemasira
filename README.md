@@ -3,7 +3,7 @@ bonfacemasira/bonfacemasira is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-### <h1 align="center">Hi 👋, I'm Bonface Masira</h1>
+### <h2 align="center">Hi 👋, I'm Bonface Masira</h2>
 ### <h3 align="center">I am Full stack Developer</h3>
 ![Pastel Themed Modern LinkedIn Career Cover Ph - Made with PosterMyWall](https://user-images.githubusercontent.com/104436879/191910821-c1f2fb14-658e-4758-b42d-98bd38d0d1af.jpg)
 
@@ -34,9 +34,8 @@ Hey there 👋 I am a Full Stack Developer from Kenya. I always like to use adva
 <a href = "https://mobile.twitter.com/NyachubaB"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonfacemasira&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonfacemasira)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonfacemasira&show_icons=true&count_private=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonfacemasira&show_icons=true&count_private=true&theme=radical)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bonfacemasira)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bonfacemasira)](https://git.io/streak-stats)
