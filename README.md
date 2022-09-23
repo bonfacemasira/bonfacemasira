@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### <h1 align="center">Hi 👋, I'm Bonface Masira</h1>
-### I am Full Stack Developer
+### <h3 align="center">I am Full Stack Developer</h3>
 ![gitback](https://user-images.githubusercontent.com/87852919/167628453-00bf380b-0880-469e-b42c-efeb1af86e29.png)
 
 
