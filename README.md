@@ -4,11 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### <h1 align="center">Hi 👋, I'm Bonface Masira</h1>
-### <h3 align="center">I am Full Stack Developer</h3>
+### <h3 align="center">I am Full stack Developer</h3>
 ![Pastel Themed Modern LinkedIn Career Cover Ph - Made with PosterMyWall](https://user-images.githubusercontent.com/104436879/191910821-c1f2fb14-658e-4758-b42d-98bd38d0d1af.jpg)
 
 
-Hey there 👋 I am a Full Stack Developer from Kenya. I always like to use advanced Technology for creating useful products. I like to use advanced programming languages like HTML, CSS, JavaScript and Ruby. I like to use the React Js and Ruby-on-Rails. I also enjoy using PowerShell, python, java, c++, c#. etc.. and I love Blockchain and Web3 programming.
+Hey there 👋 I am a Full Stack Developer from Kenya. I always like to use advanced Technology for creating useful products. I like to use advanced programming languages like html, css, javascript and Ruby. I like to use the React Js and Ruby-on-Rails. I also enjoy using powershell, python, java, c++, c#. etc.. and I love Blockchain and Web3 programming.
 
 
 
@@ -19,7 +19,7 @@ Hey there 👋 I am a Full Stack Developer from Kenya. I always like to use adva
 
 - 👋 Hi, I’m @bonfacemasira
 - 👀 I’m interested in software engineering
-- 🔭 I’m working on Open source project using html, css, JavaScript, React JS, Ruby and Ruby-on-Rails
+- 🔭 I’m working on Open source project using HTML, CSS, JavaScript, React JS, Ruby and Ruby-on-Rails
 - 🌱 I’m currently learning web3 blockchain development
 - 💞️ I’m looking to collaborate on creating dynamic webpages using React JS
 - 📫 How to reach me - bonfacemasira@gmail.com
@@ -37,6 +37,6 @@ Hey there 👋 I am a Full Stack Developer from Kenya. I always like to use adva
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonfacemasira)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonfacemasira&show_icons=true&count_private=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonfacemasira&show_icons=true&count_private=true&theme=radical)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bonfacemasira)  
