@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ![Pastel Themed Modern LinkedIn Career Cover Ph - Made with PosterMyWall](https://user-images.githubusercontent.com/104436879/191910821-c1f2fb14-658e-4758-b42d-98bd38d0d1af.jpg)
 
 
-Hey there 👋 I am a Full Stack Developer from Kenya. I always like to use advanced Technology for creating useful products. I like to use advanced programming languages like html, css, javascript and Ruby. I like to use the React Js and Ruby-on-Rails. I also enjoy using powershell, python, java, c++, c#. etc.. and I love Blockchain and Web3 programming.
+Hey there 👋 I am a Full stack Developer from Kenya. I always like to use advanced Technology for creating useful products. I like to use advanced programming languages like html, css, javascript and Ruby. I like to use the React Js and Ruby-on-Rails. I also enjoy using powershell, python, java, c++, c#. etc.. and I love Blockchain and Web3 programming.
 
 
 
