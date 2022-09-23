@@ -19,7 +19,7 @@ Hey there 👋 I am a Full Stack Developer from Kenya. I always like to use adva
 
 - 👋 Hi, I’m @bonfacemasira
 - 👀 I’m interested in software engineering
-- 🔭 I’m working on Open source project using html, css, JavaScript,React JS, Ruby and Ruby-on-Rails
+- 🔭 I’m working on Open source project using html, css, JavaScript, React JS, Ruby and Ruby-on-Rails
 - 🌱 I’m currently learning web3 blockchain development
 - 💞️ I’m looking to collaborate on creating dynamic webpages using React JS
 - 📫 How to reach me - bonfacemasira@gmail.com
