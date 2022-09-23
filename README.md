@@ -4,11 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### <h1 align="center">Hi 👋, I'm Bonface Masira</h1>
-### I am Front-end web developer
+### I am Full Stack Developer
 ![gitback](https://user-images.githubusercontent.com/87852919/167628453-00bf380b-0880-469e-b42c-efeb1af86e29.png)
 
 
-Hey there 👋 I am a Front-end web developer from Kenya. I always like to use advanced Technology for creating useful products. I like to use advanced programming languages like python, java, c++. etc.. and I love machine learning.
+Hey there 👋 I am a Full Stack Developer from Kenya. I always like to use advanced Technology for creating useful products. I like to use advanced programming languages like HTML, CSS, JavaScript and Ruby. I like to use the React Js and Ruby-on-Rails. I also enjoy using PowerShell, python, java, c++, c#. etc.. and I love Blockchain and Web3 programming.
 
 
 
@@ -19,7 +19,7 @@ Hey there 👋 I am a Front-end web developer from Kenya. I always like to use a
 
 - 👋 Hi, I’m @bonfacemasira
 - 👀 I’m interested in software engineering
-- 🔭 I’m working on Open source project using html, css and javascript
+- 🔭 I’m working on Open source project using html, css, JavaScript,React JS, Ruby and Ruby-on-Rails
 - 🌱 I’m currently learning web3 blockchain development
 - 💞️ I’m looking to collaborate on creating dynamic webpages using React JS
 - 📫 How to reach me - bonfacemasira@gmail.com
