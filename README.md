@@ -4,11 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### <h2 align="center">Hi 👋, I'm Bonface Masira</h2>
+<!---
 ### <h3 align="center">I am Full stack Developer</h3>
-![Pastel Themed Modern LinkedIn Career Cover Ph - Made with PosterMyWall](https://user-images.githubusercontent.com/104436879/191910821-c1f2fb14-658e-4758-b42d-98bd38d0d1af.jpg)
+--->
+![Full stack developer](https://user-images.githubusercontent.com/104436879/191925118-719f4d26-3213-45ce-9fc4-e9dcb29f49ef.png)
 
-
-Hey there 👋 I am a Full stack Developer from Kenya. I always like to use advanced Technology for creating useful products. I like to use advanced programming languages like html, css, javascript and Ruby. I like to use the React Js and Ruby-on-Rails. I also enjoy using powershell, python, java, c++, c#. etc.. and I love Blockchain and Web3 programming.
+Hey there 👋 I am a Full stack Developer from Kenya. I like to create products using advanced programming languages like html, css, javascript and Ruby. I like to use the React Js library and Ruby-on-Rails framework. I also enjoy using powershell, python, java, c++, c#. etc..
 
 
 
