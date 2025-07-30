@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2 align="center">Hi 👋, I'm Bonface Masira</h2>
-<h4 align="center">Full Stack Developer | Software Engineer | DevOps Enthusiast</h4>
+<h4 align="center"> Software Engineer | DevOps Enthusiast</h4>
 
 ![Full Stack Developer](https://user-images.githubusercontent.com/104436879/191925118-719f4d26-3213-45ce-9fc4-e9dcb29f49ef.png)
 
@@ -17,20 +17,19 @@ I enjoy working on challenging projects, exploring emerging technologies, and co
 ## 🚀 Languages & Tools
 
 ### **💻 Development**
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
-![ReactJS](https://img.icons8.com/color/30/react-native.png)
-![NextJS](https://img.icons8.com/color/30/nextjs.png)
-![NestJS](https://img.icons8.com/color/30/nestjs.png)
-![C#](https://img.icons8.com/color/30/c-sharp-logo.png)
-![.NET](https://img.icons8.com/color/30/net-framework.png)
-![Ruby](https://img.icons8.com/color/30/ruby.png)
-![WordPress](https://img.icons8.com/color/30/wordpress.png)
-![NPM](https://img.icons8.com/color/30/npm.png)
-![GitHub](https://img.icons8.com/material-outlined/30/github.png)
-![Git](https://img.icons8.com/color/30/git.png)
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png) **HTML**
+![CSS3](https://img.icons8.com/color/30/css3.png) **CSS**
+![JavaScript](https://img.icons8.com/color/30/javascript.png) **JavaScript**
+![ReactJS](https://img.icons8.com/color/30/react-native.png) **ReactJS**
+![NextJS](https://img.icons8.com/color/30/nextjs.png) **NextJS**
+![NestJS](https://img.icons8.com/color/30/nestjs.png) **NestJS**
+![C#](https://img.icons8.com/color/30/c-sharp-logo.png) **C#**
+![.NET](https://img.icons8.com/color/30/net-framework.png) **.NET Framework**
+![NPM](https://img.icons8.com/color/30/npm.png) **NPM**
+![GitHub](https://img.icons8.com/material-outlined/30/github.png) **GitHub**
+![Git](https://img.icons8.com/color/30/git.png) **Git**
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png) **VSCode**
+![Visual Studio](https://img.icons8.com/color/30/visual-studio.png) **Visual Studio**
 
 ---
 
