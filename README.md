@@ -17,18 +17,18 @@ I enjoy working on challenging projects, exploring emerging technologies, and co
 ## 🚀 Languages & Tools
 
 ### **💻 Development**
-![HTML5](https://img.icons8.com/color/30/html-5.png) **HTML**
-![CSS3](https://img.icons8.com/color/30/css3.png) **CSS**
-![JavaScript](https://img.icons8.com/color/30/javascript.png) **JavaScript**
-![ReactJS](https://img.icons8.com/color/30/react-native.png) **ReactJS**
-![NextJS](https://img.icons8.com/color/30/nextjs.png) **NextJS**
-![NestJS](https://img.icons8.com/color/30/nestjs.png) **NestJS**
-![C#](https://img.icons8.com/color/30/c-sharp-logo.png) **C#**
-![.NET](https://img.icons8.com/color/30/net-framework.png) **.NET Framework**
-![NPM](https://img.icons8.com/color/30/npm.png) **NPM**
-![GitHub](https://img.icons8.com/material-outlined/30/github.png) **GitHub**
-![Git](https://img.icons8.com/color/30/git.png) **Git**
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png) **VSCode**
+![HTML5](https://img.icons8.com/color/30/html-5.png) **HTML**  
+![CSS3](https://img.icons8.com/color/30/css3.png) **CSS**  
+![JavaScript](https://img.icons8.com/color/30/javascript.png) **JavaScript**  
+![ReactJS](https://img.icons8.com/color/30/react-native.png) **ReactJS**  
+![NextJS](https://img.icons8.com/color/30/nextjs.png) **NextJS**  
+![NestJS](https://img.icons8.com/color/30/nestjs.png) **NestJS**  
+![C#](https://img.icons8.com/color/30/c-sharp-logo.png) **C#**  
+![.NET](https://img.icons8.com/color/30/net-framework.png) **.NET Framework**  
+![NPM](https://img.icons8.com/color/30/npm.png) **NPM**  
+![GitHub](https://img.icons8.com/material-outlined/30/github.png) **GitHub**  
+![Git](https://img.icons8.com/color/30/git.png) **Git**  
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png) **VSCode**  
 ![Visual Studio](https://img.icons8.com/color/30/visual-studio.png) **Visual Studio**
 
 ---
